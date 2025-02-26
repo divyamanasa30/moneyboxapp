@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App", "Moneybox.App.csproj", "{FFFC16DE-0D72-4CB4-847C-2C2DF7D50D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{A9EFF041-0B57-47A5-9BF7-FACC697A7608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFC16DE-0D72-4CB4-847C-2C2DF7D50D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFC16DE-0D72-4CB4-847C-2C2DF7D50D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFC16DE-0D72-4CB4-847C-2C2DF7D50D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFC16DE-0D72-4CB4-847C-2C2DF7D50D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EFF041-0B57-47A5-9BF7-FACC697A7608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EFF041-0B57-47A5-9BF7-FACC697A7608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EFF041-0B57-47A5-9BF7-FACC697A7608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EFF041-0B57-47A5-9BF7-FACC697A7608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51EFA673-0121-44AA-882E-55469CB01F1B}
+	EndGlobalSection
+EndGlobal
